@@ -1,4 +1,4 @@
-# Bem vindo ao meu Perfil👽 👾 🤖
+# Bem vindo ao meu Perfil👽 👾 🤖![giphy (1)](https://user-images.githubusercontent.com/74679398/113947100-4a4d9900-97e0-11eb-990a-776a90197683.gif)
 
  - Olá meu nome é Lucas🙋🏽‍♂️
  - Estudante de Analise e Desenvolvimento de Sistemas👨‍💻
