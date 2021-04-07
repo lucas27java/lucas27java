@@ -6,7 +6,7 @@
 
 ## "O que você sabe não tem valor; o valor está no que você faz com o que sabe."🍃 🍂
 
- - -📍São Paulo, Brasil.    
+ - 📍São Paulo, Brasil.    
  - 🔎Procurando por oportunidades que me desafiem a melhorar minhas habilidades e conhecimentos.  
  
  - 🔔Me sigam e vamos bater um papo.
