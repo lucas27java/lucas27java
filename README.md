@@ -1,4 +1,4 @@
-# Bem vindo ao meu Perfil👽 👾 🤖!
+# Bem vindo ao meu Perfil!👽 👾 🤖
 
  - Olá meu nome é Lucas🙋🏽‍♂️
  - Estudante de Analise e Desenvolvimento de Sistemas👨‍💻
