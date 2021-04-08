@@ -2,7 +2,7 @@
 
  - Olá meu nome é Lucas🙋🏽‍♂️
  - Estudante de Analise e Desenvolvimento de Sistemas👨‍💻
- - Foco em me tornar um Dev. Front-End.💻 e também Dev. Mobile📱
+ - Focado em me tornar um Dev. Front-End.💻 e também Dev. Mobile📱
 
 ## "O que você sabe não tem valor; o valor está no que você faz com o que sabe."🍃 🍂
 
