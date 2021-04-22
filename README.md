@@ -6,11 +6,11 @@
 
 ## "O que você sabe não tem valor; o valor está no que você faz com o que sabe."🍃 🍂
 
- - 📍São Paulo, Brasil.    
- - 🔎Procurando por oportunidades que me desafiem a melhorar minhas habilidades e conhecimentos.  
+ - 📍 São Paulo, Brasil.    
+ - 🔎 Procurando por oportunidades que me desafiem a melhorar minhas habilidades e conhecimentos.  
  
- - 🔔Me sigam e vamos bater um papo.
- - 📧lucasfloresrodriguesti@outlook.com
+ - 🔔 Me sigam e vamos bater um papo.
+ - 📧 lucasfloresrodriguesti@outlook.com
 
 ## Minhas Redes Sociais.😄
 ![giphy (5)](https://user-images.githubusercontent.com/74679398/113948362-0dcf6c80-97e3-11eb-9179-168d4eb631dd.gif)
