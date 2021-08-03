@@ -4,8 +4,8 @@
  - Focado em me tornar um Dev. Front-End.💻 e também Dev. Mobile📱
  <div>
   <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas27java&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas27java&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=lucas27java&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas27java&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
  
  <div style="display: inline_block"><br>
