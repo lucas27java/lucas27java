@@ -3,17 +3,32 @@
  - Olá meu nome é Lucas🙋🏽‍♂️
  - Estudante de Analise e Desenvolvimento de Sistemas👨‍💻
  - Focado em me tornar um Dev. Front-End.💻 e também Dev. Mobile📱
-
-## "O que você sabe não tem valor; o valor está no que você faz com o que sabe."🍃 🍂
-
- - 📍 São Paulo, Brasil.    
- - 🔎 Procurando por oportunidades que me desafiem a melhorar minhas habilidades e conhecimentos.  
+<div>
+  <a href="https://github.com/lucas27java">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas27java&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas27java&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+</div>
  
- - 🔔 Me sigam e vamos bater um papo.
- - 📧 lucasfloresrodriguesti@outlook.com
+ <div style="display: inline_block"><br>
+  <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Lucas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  </div>
+
+ #
 
 ## Minhas Redes Sociais.😄
-![giphy (5)](https://user-images.githubusercontent.com/74679398/113948362-0dcf6c80-97e3-11eb-9179-168d4eb631dd.gif)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-f-rodrigues/)](https://www.linkedin.com/in/lucas-f-rodrigues/) [
-![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/lurtyu/?hl=pt-br)](https://www.instagram.com/lurtyu/?hl=pt-br/)
-![giphy (3)](https://user-images.githubusercontent.com/74679398/113948004-491d6b80-97e2-11eb-8c98-8a1a133ba6b4.gif)
+<div> <a href=https://web.whatsapp.com/ target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+ <a href=https://www.facebook.com/lucas.flores.90/ target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+  <a href=https://www.instagram.com/lurtyu/?hl=pt-br target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/lurtyu" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "https://mail.google.com/mail/u/0/#inbox"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucas-f-rodrigues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+
+
