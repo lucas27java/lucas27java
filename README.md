@@ -1,7 +1,5 @@
 # Bem vindo ao meu Perfil!👽 👾 🤖
- - Olá meu nome é Lucas🙋🏽♂️
- - Estudante de Analise e Desenvolvimento de Sistemas👨💻
- - Focado em me tornar um Dev. Front-End.💻 e também Dev. Mobile📱
+ 
  <div>
   <a href="https://github.com/lucas27java">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas27java&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
