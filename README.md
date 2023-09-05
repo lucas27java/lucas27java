@@ -1,6 +1,6 @@
 # Bem vindo ao meu Perfil!👽 👾 🤖
  - Olá meu nome é Lucas🙋🏽♂️
- - Estudante de Analise e Desenvolvimento de Sistemas👨💻
+ - Formado em Analise e Desenvolvimento de Sistemas👨💻
  - Focado em me tornar um Dev Front-End💻 e também Dev Mobile📱
   
  #
